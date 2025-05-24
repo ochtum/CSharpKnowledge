@@ -213,4 +213,4 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
 - [YamlSettingTest](https://github.com/ochtum/YamlSettingTest)
   - 設定ファイルを JSON で管理するのヤダ！っていう人向けの YAML で管理するサンプル。
 - [DaprMultiContainer](https://github.com/ochtum/DaprMultiContainer)
-  - Dapr/Zipkin/Envoy/Nginx で構成した dotnet8 のマイクロサービス構成システム。
+  - Dapr/Zipkin/Envoy/Nginx で構成した dotnet8 のマイクロサービス構成のサンプルソース。
