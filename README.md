@@ -214,3 +214,38 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
   - 設定ファイルを JSON で管理するのヤダ！っていう人向けの YAML で管理するサンプル。
 - [DaprMultiContainer](https://github.com/ochtum/DaprMultiContainer)
   - Dapr/Zipkin/Envoy/Nginx で構成した dotnet8 のマイクロサービス構成のサンプルソース。
+- [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet)
+   - Clean CodeコンセプトをC#で実現するためのTipsやリンク集
+
+### awesome リスト
+
+- .NET
+  - [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+    - .NET全般のawesomeリスト（リンク集リポジトリ）
+  - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+    - .NET Core以降に限定したawesomeリスト
+  - [Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet#)
+    - .NETのマイクロサービス関連をまとめたawesomeリスト
+  - [awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)
+    - .NET関連のtipsをまとめたawesomeリスト
+  - [awesome-dotnet-testing](https://github.com/ilya-chumakov/awesome-dotnet-testing)
+    - .NET関係のソフトウェアテストをまとめたawesomeリスト
+  - [awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security)
+    - .NETのセキュリティ関連をまとめたawesomeリスト 
+  - [dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources)
+    - .NETで生成AIに関係するものをまとめたawesomeリスト
+  - [Awesome-Nuget-Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
+    - nugetで公開されている.NET/C#ライブラリのawesomeリスト
+  - [jeffreylanters/awesome-unity-packages](https://github.com/jeffreylanters/awesome-unity-packages)
+    - Unity向けのライブラリのawesomeリスト
+- C#
+  - [awesome-csharp](https://docs.microsoft.com/en-us/dotnet/csharp)
+    - C#のawesomeリスト
+  - [awesome-roslyn](https://github.com/ironcev/awesome-roslyn)
+    - C#のコンパイラプラットホーム、Roslynに関係するawesomeリスト
+  - [csharp-source-generators](https://github.com/amis92/csharp-source-generators)
+    - C#のソースジェネレータに関するリスト
+- フレームワーク
+  - [awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
+  - [awesome-dotnet-maui](https://github.com/jsuarezruiz/awesome-dotnet-maui)
+  - [awesome-wpf](https://github.com/Carlos487/awesome-wpf/pulse)
