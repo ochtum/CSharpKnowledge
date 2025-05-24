@@ -91,6 +91,8 @@
 - [Microsoft Azure](https://x.com/i/communities/1472426162546745346)
   - 知識を共有し、Azure プラットフォームを活用する方法について他ユーザーから学ぶ
 
+---
+
 ### 1-2. Facebook
 
 #### アカウント
@@ -106,12 +108,16 @@
 
 - [C# .Net ( DotNet Core ) Developers](https://www.facebook.com/groups/146038227041221/)
 
+---
+
 ### 1-3. LinkedIn
 
 - [Visual Studio Code](https://www.linkedin.com/showcase/vs-code/posts/?feedView=all)
 - [Guthub](https://www.linkedin.com/company/github/posts/)
 - [Microsoft 365 Developer](https://www.linkedin.com/showcase/microsoft365dev/posts/)
 - [Microsoft](https://www.linkedin.com/company/microsoft/posts/?feedView=all)
+
+---
 
 ### 1-4. Discord
 
@@ -132,6 +138,8 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
 - Microsoft Certification Hub
 - Microsoft Insider Hub
 
+---
+
 ### 1-5. Other
 
 #### Zenn.Dev
@@ -140,6 +148,8 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
   - Microsoft Azure をはじめとする最新技術情報を発信する企業アカウント（内容は公式見解ではない）。ここを見ると後述するアカウントの記事も確認できる。
 - [Kazuki Ota](https://zenn.dev/okazuki)
   - Azure や dotnet 周りの技術情報を発信するマイクロソフト社員のアカウント。
+
+---
 
 ## 2. サイト
 
@@ -180,6 +190,8 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
 
 - [Microsoft セミナー](https://www.microsoft.com/ja-jp/maic/seminar)
 - [AI Business School](https://learn.microsoft.com/ja-jp/training/paths/transform-your-business-with-microsoft-ai/)
+
+---
 
 ## 3. Github レポジトリ
 
