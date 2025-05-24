@@ -236,7 +236,7 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
     - .NETで生成AIに関係するものをまとめたawesomeリスト
   - [Awesome-Nuget-Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
     - nugetで公開されている.NET/C#ライブラリのawesomeリスト
-  - [jeffreylanters/awesome-unity-packages](https://github.com/jeffreylanters/awesome-unity-packages)
+  - [awesome-unity-packages](https://github.com/jeffreylanters/awesome-unity-packages)
     - Unity向けのライブラリのawesomeリスト
 - C#
   - [awesome-csharp](https://docs.microsoft.com/en-us/dotnet/csharp)
