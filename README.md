@@ -197,6 +197,8 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
 
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
   - MCP サーバー用のビジュアル テスト ツール
+- [Foundry Local](https://github.com/microsoft/foundry-local)
+  - Azure サブスクリプションを必要とせずに、Azure AI Foundry の機能をローカルデバイスで利用できるようにします。
 - [HigLabo ライブラリ](https://github.com/higty/higlabo)
   - 以下機能を提供するライブラリ
     - 1. OpenAI クライアントライブラリ
@@ -214,3 +216,30 @@ Discord は海外サーバーの場合、英語が飛び交いますが、ブラ
   - 設定ファイルを JSON で管理するのヤダ！っていう人向けの YAML で管理するサンプル。
 - [DaprMultiContainer](https://github.com/ochtum/DaprMultiContainer)
   - Dapr/Zipkin/Envoy/Nginx で構成した dotnet8 のマイクロサービス構成のサンプルソース。
+
+---
+
+## 4. Youtube
+
+- [Coding Droplets](https://www.youtube.com/@CodingDroplets)
+  - 知識レベル向上に役立つトレーニングビデオやチュートリアルビデオシリーズを配信している
+- [Csharp Space](https://www.youtube.com/@CsharpSpace)
+  - ASP.NET、ASP.NET Core、C#、ASP.NET MVC、Angular JS、JavaScript、jQuery、SQL、Crystal Report など、様々なプログラミング言語のシンプルでステップバイステップのビデオチュートリアルを配信している
+- [dotnet](https://www.youtube.com/@dotnet)
+  - Microsoft の.NET チームの公式 YouTube チャンネル
+- [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
+  - CSharp や Azure、SQL などの Microsoft 技術に関する情報を配信している。
+- [Microsoft](https://www.youtube.com/@Microsoft)
+  - Microsoft 公式チャンネル。Microsoft Build も配信される。
+- [日本マイクロソフト株式会社 公式チャンネル](https://www.youtube.com/@microsoftjapanvideos)
+  - Microsoft 日本公式チャンネル。ビジョン、製品、サービス、テクノロジー、イベント、キャンペーンなどを配信している。
+- [Microsoft 365 Japan](https://www.youtube.com/@Microsoft365Japan)
+  - Microsoft 365 日本公式チャンネル。AzureActiveDirectiry や Copilot に関する Tips も配信されている。
+- [Microsoft Developer](https://www.youtube.com/@MicrosoftDeveloper)
+  - ライブイベント、ヒントやチュートリアル、製品ニュースなど、テクノロジー、オープンソースフレームワークを使ったソリューションの探求、発見、構築に役立つ情報を配信。
+- [Visual Studio Code](https://www.youtube.com/@code)
+  - VS Code に関するリリース情報、Tips を配信。
+- [Windows Japan](https://www.youtube.com/@WindowsJapan)
+  - Windows 日本公式チャンネル。Windows に関する Tips を配信。
+- [クラウドデベロッパーちゃんねる](https://www.youtube.com/@MSCloudDeveloper)
+  - 日本マイクロソフトが運営している技術情報の配信チャンネル。
